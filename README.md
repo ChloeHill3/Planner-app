@@ -13,7 +13,7 @@ This is a simple calendar application that allows a user to save events for each
 
 ## Instructions
 
-The appplication:
+The appplication: Deployed Link: https://chloehill3.github.io/Planner-app/
 
 * Displays the current day at the top of the calendar when a user opens the planner.
 
